@@ -1,3 +1,3 @@
-# Pagination
+Pagination:
 
-Pagination is a repository name and it includes the pagination code.
+This is the new repository for pagination
